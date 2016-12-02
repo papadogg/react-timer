@@ -20,7 +20,7 @@ module.exports = {
     },
     resolve: {
         root: __dirname,
-        alias: {   
+        alias: {
             Main: 'app/components/Main.jsx',
             applicationStyles:'app/styles/app.scss',
             Nav: 'app/components/Nav.jsx',
